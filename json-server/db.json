@@ -1,0 +1,228 @@
+{
+  "genres": [
+    {
+      "id": 1,
+      "icon": "fa-solid fa-gun",
+      "name": "Hành Động",
+      "href": "genre/action"
+    },
+    {
+      "id": 2,
+      "icon": "fa-solid fa-heart",
+      "name": "Tình Cảm",
+      "href": "genre/romance"
+    },
+    {
+      "id": 3,
+      "icon": "fa-solid fa-dragon",
+      "name": "Phiêu Lưu",
+      "href": "genre/adventure"
+    },
+    {
+      "id": 4,
+      "icon": "fa-solid fa-masks-theater",
+      "name": "Hài Hước",
+      "href": "genre/comedy"
+    },
+    {
+      "id": 5,
+      "icon": "fa-solid fa-brain",
+      "name": "Tâm Lý - Trinh Thám",
+      "href": "genre/thriller-psychologique"
+    },
+    {
+      "id": 6,
+      "icon": "fa-solid fa-dna",
+      "name": "Khoa Học Viễn Tưởng",
+      "href": "genre/science"
+    },
+    {
+      "id": 7,
+      "icon": "fa-solid fa-biohazard",
+      "name": "Kinh Dị",
+      "href": "genre/horror"
+    },
+    {
+      "id": 8,
+      "icon": "fa-solid fa-music",
+      "name": "Âm Nhạc",
+      "href": "genre/musical"
+    },
+    {
+      "id": 9,
+      "icon": "fa-solid fa-tree",
+      "name": "Hoạt Hình",
+      "href": "genre/cartoon"
+    }
+  ],
+  "countries": [
+    {
+      "id": 1,
+      "name": "Việt Nam",
+      "href": "/vietnam"
+    },
+    {
+      "id": 2,
+      "name": "Nhật Bản",
+      "href": "/japan"
+    },
+    {
+      "id": 3,
+      "name": "Âu Mỹ",
+      "href": "/europe"
+    },
+    {
+      "id": 4,
+      "name": "Hàn Quốc",
+      "href": "/korea"
+    },
+    {
+      "id": 5,
+      "name": "Trung Quốc",
+      "href": "/china"
+    },
+    {
+      "id": 6,
+      "name": "Thái Lan",
+      "href": "/thailand"
+    }
+  ],
+  "years": [
+    {
+      "id": 1,
+      "year": 2009,
+      "href": "/2009"
+    },
+    {
+      "id": 2,
+      "year": 2010,
+      "href": "/2010"
+    },
+    {
+      "id": 3,
+      "year": 2011,
+      "href": "/2011"
+    },
+    {
+      "id": 4,
+      "year": 2012,
+      "href": "/2012"
+    },
+    {
+      "id": 5,
+      "year": 2013,
+      "href": "/2013"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Minions",
+      "country": "Âu Mỹ",
+      "updateTime": 20150617,
+      "year": 2023,
+      "runtime": "67 phút",
+      "genreOne": "Hoạt Hình",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Hài Hước",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FMinions_poster.jpg?alt=media&token=b5719d30-f7e8-4703-b08c-77005e8ce63d",
+      "cover": "",
+      "plot": "Minions đưa ta quay về thưở khai thiên lập địa, khi ấy Minion đã tồn tại. Chúng luôn phục tùng cho những kẻ tàn ác nhất nhưng họ cũng lần lượt ra đi. Vì ko còn ai để phụng sự, Minion tên Kevin đã cùng Stuart và Bob ra đi khám phá thế giới và tìm kiếm chủ nhân tàn ác cho mình. Và chúng đã tìm ra Scarlet Overkill - nữ siêu ác nhân đầu tiên nhân loại. Rồi chuyện gì sẽ xảy ra tiếp theo? Trái đất sẽ như thế nào?",
+      "trailer": "P9-FCC6I7u0",
+      "video": "",
+      "voteAverage": 3.1,
+      "voteCount": 9778
+    },
+    {
+      "id": 2,
+      "title": "Minions: Sự trỗi dậy của Gru",
+      "country": "Âu Mỹ",
+      "updateTime": 20220629,
+      "year": 2022,
+      "runtime": "67 phút",
+      "genreOne": "Hoạt Hình",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Hài Hước",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FMinions_The_Rise_of_Gru-608394212-large.jpg?alt=media&token=48d15b4d-ef6a-471b-8e97-33df2da4bcfc",
+      "cover": "",
+      "plot": "Năm 1976, tám năm sau các sự kiện của phần phim đầu tiên, cậu bé 11 tuổi Gru cho phép các Minion làm việc cho cậu với tư cách là thủ lĩnh mới của chúng. Một ngày nọ, Gru nhận được lời mời thử vai từ Vicious 6, một tổ chức tội phạm được thành lập bởi siêu tội phạm Wild Knuckles; bây giờ được dẫn dắt bởi thủ lĩnh mới được bổ nhiệm Belle Bottom sau cái chết của Knuckles, người hy vọng sẽ tìm thấy một thành viên mới. Cuộc phỏng vấn của Gru diễn ra không suôn sẻ nhưng trước sự phẫn nộ của Vicious 6, anh ta đã đánh cắp được một viên đá có khả năng biến bất kỳ ai thành một trong những con vật của Hoàng đạo Trung Quốc vào Tết Nguyên Đán.",
+      "trailer": "6DxjJzmYsXo",
+      "video": "",
+      "voteAverage": 3.7,
+      "voteCount": 2770
+    },
+    {
+      "id": 3,
+      "title": "Người Nhện: Không Còn Nhà",
+      "country": "Âu Mỹ",
+      "updateTime": 20211215,
+      "year": 2021,
+      "runtime": "148 phút",
+      "genreOne": "Hành Động",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Khoa Học Viễn Tưởng",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2Fnowayhome.jpg?alt=media&token=8dd50590-0c41-4ba6-9e3d-f11b1b160696",
+      "cover": "",
+      "plot": "Bộ phim tiếp nối sự kiện của phần Spider-man: Far From Home khi phản diện Mysterio đã tiết lộ danh tính thực sự của người nhện là Peter Parker, Spiderman đã phải đối diện với nhiều lời khen chê trái chiều đến từ công chúng, việc này không những làm ảnh hưởng đến cuộc sống của Peter mà còn khiến Dì May, cậu bạn Ned và người yêu MJ bị liên lụy. Vì vậy Peter đã tìm đến Doctor Strange để nhờ ông tìm cách giải quyết chuyện này. Tuy nhiên trong quá trình thi triển thuật đảo ngược thời gian, do nhanh mồm nhanh miệng mà Peter đã khiến việc đọc phép gặp lỗi và mở ra những cánh cửa đưa các tên ác nhân ở các vũ trụ khác đến nơi cậu sinh sống.",
+      "trailer": "iaD2f2O9wGk",
+      "video": "",
+      "voteAverage": 4,
+      "voteCount": 17204
+    }
+  ],
+  "tv-series": [
+    {
+      "id": 1,
+      "title": "Vũ Điệu Tuổi Trẻ",
+      "country": "Hàn Quốc",
+      "updateTime": 20221214,
+      "year": 2022,
+      "runtime": "70 phút/Tập",
+      "genreOne": "Tình Cảm",
+      "genreTwo": "",
+      "genreThree": "",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FCheer-Up.jpg?alt=media&token=d2158d3d-e0df-4825-a0e5-2f83a7a2b8ed",
+      "cover": "",
+      "plot": "Do Hae Yi sáng sủa và siêng năng, đang là sinh viên Đại học Yeonhee. Vì tình hình tài chính không tốt của gia đình, cô ấy ưu tiên kiếm tiền hơn là đi học.Một ngày nọ, Do Hae Yi bất ngờ gia nhập đội cổ vũ Teyia đã tồn tại 50 năm tại Đại học Yeonhee. Cô ấy chỉ tham gia câu lạc bộ vì tiền, nhưng trong khi tham gia vào đội cổ vũ, Do Hae Yi bắt đầu trải nghiệm niềm vui của cuộc sống trong khuôn viên trường và gặp gỡ nhiều người khác nhau từ Teyia bao gồm Bae Young Woong, người từng là thành viên của Teyia và anh ấy là cựu sinh viên của Yeonhee Univers, hỗ trợ đội cổ vũ về mặt tài chính và tình cảm.",
+      "trailer": "",
+      "video": "",
+      "episodes": "24/24",
+      "complete": "Đã Hoàn",
+      "voteAverage": 4.8,
+      "voteCount": 9
+    }
+  ],
+  "comments": [
+    {
+      "title": "Minions",
+      "avatar": "",
+      "userName": "a",
+      "voteAverage": 2,
+      "text": "ahfahfạkfh"
+    },
+    {
+      "title": "Minions: Sự trỗi dậy của Gru",
+      "avatar": "",
+      "userName": "a",
+      "voteAverage": 3,
+      "text": "ahfahfạkfh"
+    }
+  ],
+  "users": [
+    {
+      "userName": "Anh",
+      "email": "admin@gmail.com",
+      "password": "adminahihi",
+      "condition": "admin",
+      "id": 1
+    },
+    {
+      "userName": "Dương Quá",
+      "email": "yeucoco@gmail.com",
+      "password": "yeucocoahihi",
+      "condition": "user",
+      "status": "Hoạt Động",
+      "id": 2
+    }
+  ]
+}
