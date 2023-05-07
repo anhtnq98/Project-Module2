@@ -1,220 +1,334 @@
 {
   "genres": [
     {
-      "id": 1,
+      "id": 1121,
       "icon": "fa-solid fa-gun",
-      "name": "Hành Động",
-      "href": "genre/action"
+      "name": "Hành Động"
     },
     {
-      "id": 2,
+      "id": 2545,
       "icon": "fa-solid fa-heart",
-      "name": "Tình Cảm",
-      "href": "genre/romance"
+      "name": "Tình Cảm"
     },
     {
-      "id": 3,
+      "id": 3312,
       "icon": "fa-solid fa-dragon",
-      "name": "Phiêu Lưu",
-      "href": "genre/adventure"
+      "name": "Phiêu Lưu"
     },
     {
-      "id": 4,
+      "id": 4553,
       "icon": "fa-solid fa-masks-theater",
-      "name": "Hài Hước",
-      "href": "genre/comedy"
+      "name": "Hài Hước"
     },
     {
-      "id": 5,
+      "id": 5555,
       "icon": "fa-solid fa-brain",
-      "name": "Tâm Lý - Trinh Thám",
-      "href": "genre/thriller-psychologique"
+      "name": "Tâm Lý - Trinh Thám"
     },
     {
-      "id": 6,
+      "id": 6335,
       "icon": "fa-solid fa-dna",
-      "name": "Khoa Học Viễn Tưởng",
-      "href": "genre/science"
+      "name": "Khoa Học Viễn Tưởng"
     },
     {
-      "id": 7,
+      "id": 7655,
       "icon": "fa-solid fa-biohazard",
-      "name": "Kinh Dị",
-      "href": "genre/horror"
+      "name": "Kinh Dị"
     },
     {
-      "id": 8,
+      "id": 8155,
       "icon": "fa-solid fa-music",
-      "name": "Âm Nhạc",
-      "href": "genre/musical"
+      "name": "Âm Nhạc"
     },
     {
-      "id": 9,
+      "id": 9323,
       "icon": "fa-solid fa-tree",
-      "name": "Hoạt Hình",
-      "href": "genre/cartoon"
+      "name": "Hoạt Hình"
     }
   ],
   "countries": [
     {
       "id": 1,
-      "name": "Việt Nam",
-      "href": "/vietnam"
+      "name": "Việt Nam"
     },
     {
       "id": 2,
-      "name": "Nhật Bản",
-      "href": "/japan"
+      "name": "Nhật Bản"
     },
     {
       "id": 3,
-      "name": "Âu Mỹ",
-      "href": "/europe"
+      "name": "Âu Mỹ"
     },
     {
       "id": 4,
-      "name": "Hàn Quốc",
-      "href": "/korea"
+      "name": "Hàn Quốc"
     },
     {
       "id": 5,
-      "name": "Trung Quốc",
-      "href": "/china"
+      "name": "Trung Quốc"
     },
     {
       "id": 6,
-      "name": "Thái Lan",
-      "href": "/thailand"
+      "name": "Thái Lan"
     }
   ],
   "years": [
     {
-      "id": 1,
-      "year": 2009,
-      "href": "/2009"
+      "id": 2009,
+      "year": 2009
     },
     {
-      "id": 2,
-      "year": 2010,
-      "href": "/2010"
+      "id": 2010,
+      "year": 2010
     },
     {
-      "id": 3,
-      "year": 2011,
-      "href": "/2011"
+      "id": 2011,
+      "year": 2011
     },
     {
-      "id": 4,
-      "year": 2012,
-      "href": "/2012"
+      "id": 2012,
+      "year": 2012
     },
     {
-      "id": 5,
-      "year": 2013,
-      "href": "/2013"
+      "id": 2013,
+      "year": 2013
+    },
+    {
+      "id": 2014,
+      "year": 2014
+    },
+    {
+      "id": 2015,
+      "year": 2015
+    },
+    {
+      "id": 2016,
+      "year": 2016
+    },
+    {
+      "id": 2017,
+      "year": 2017
+    },
+    {
+      "id": 2018,
+      "year": 2018
+    },
+    {
+      "id": 2019,
+      "year": 2019
+    },
+    {
+      "id": 2020,
+      "year": 2020
+    },
+    {
+      "id": 2021,
+      "year": 2021
+    },
+    {
+      "id": 2022,
+      "year": 2022
+    },
+    {
+      "id": 2023,
+      "year": 2023
+    },
+    {
+      "id": 2008,
+      "year": 2008
+    },
+    {
+      "id": 2007,
+      "year": 2007
     }
   ],
   "movies": [
     {
-      "id": 1,
-      "title": "Minions",
-      "country": "Âu Mỹ",
-      "updateTime": 20150617,
-      "year": 2023,
-      "runtime": "67 phút",
-      "genreOne": "Hoạt Hình",
-      "genreTwo": "Phiêu Lưu",
-      "genreThree": "Hài Hước",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FMinions_poster.jpg?alt=media&token=b5719d30-f7e8-4703-b08c-77005e8ce63d",
-      "cover": "",
-      "plot": "Minions đưa ta quay về thưở khai thiên lập địa, khi ấy Minion đã tồn tại. Chúng luôn phục tùng cho những kẻ tàn ác nhất nhưng họ cũng lần lượt ra đi. Vì ko còn ai để phụng sự, Minion tên Kevin đã cùng Stuart và Bob ra đi khám phá thế giới và tìm kiếm chủ nhân tàn ác cho mình. Và chúng đã tìm ra Scarlet Overkill - nữ siêu ác nhân đầu tiên nhân loại. Rồi chuyện gì sẽ xảy ra tiếp theo? Trái đất sẽ như thế nào?",
-      "trailer": "P9-FCC6I7u0",
-      "video": "",
-      "voteAverage": 3.1,
-      "voteCount": 9778
-    },
-    {
-      "id": 2,
+      "id": 5543126025555,
       "title": "Minions: Sự trỗi dậy của Gru",
       "country": "Âu Mỹ",
-      "updateTime": 20220629,
+      "updateTime": 20220506091111,
       "year": 2022,
       "runtime": "67 phút",
       "genreOne": "Hoạt Hình",
       "genreTwo": "Phiêu Lưu",
       "genreThree": "Hài Hước",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FMinions_The_Rise_of_Gru-608394212-large.jpg?alt=media&token=48d15b4d-ef6a-471b-8e97-33df2da4bcfc",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FMinions_The_Rise_of_Gru-608394212-large.jpg?alt=media&token=6b4aa12c-c1a6-4e2d-8fe6-3c9f7d536483",
       "cover": "",
       "plot": "Năm 1976, tám năm sau các sự kiện của phần phim đầu tiên, cậu bé 11 tuổi Gru cho phép các Minion làm việc cho cậu với tư cách là thủ lĩnh mới của chúng. Một ngày nọ, Gru nhận được lời mời thử vai từ Vicious 6, một tổ chức tội phạm được thành lập bởi siêu tội phạm Wild Knuckles; bây giờ được dẫn dắt bởi thủ lĩnh mới được bổ nhiệm Belle Bottom sau cái chết của Knuckles, người hy vọng sẽ tìm thấy một thành viên mới. Cuộc phỏng vấn của Gru diễn ra không suôn sẻ nhưng trước sự phẫn nộ của Vicious 6, anh ta đã đánh cắp được một viên đá có khả năng biến bất kỳ ai thành một trong những con vật của Hoàng đạo Trung Quốc vào Tết Nguyên Đán.",
       "trailer": "6DxjJzmYsXo",
-      "video": "",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FMINIONS-%20S%E1%BB%B0%20TR%E1%BB%96I%20D%E1%BA%ACY%20C%E1%BB%A6A%20GRU.mp4?alt=media&token=937c3b45-3cf6-451c-9b29-80698204454d",
       "voteAverage": 3.7,
       "voteCount": 2770
     },
     {
-      "id": 3,
+      "id": 5543126023856,
       "title": "Người Nhện: Không Còn Nhà",
       "country": "Âu Mỹ",
-      "updateTime": 20211215,
+      "updateTime": 20210506091111,
       "year": 2021,
       "runtime": "148 phút",
       "genreOne": "Hành Động",
       "genreTwo": "Phiêu Lưu",
       "genreThree": "Khoa Học Viễn Tưởng",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2Fnowayhome.jpg?alt=media&token=8dd50590-0c41-4ba6-9e3d-f11b1b160696",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2Fnowayhome.jpg?alt=media&token=d31976aa-f17a-46df-81ae-1f670db1316e",
       "cover": "",
       "plot": "Bộ phim tiếp nối sự kiện của phần Spider-man: Far From Home khi phản diện Mysterio đã tiết lộ danh tính thực sự của người nhện là Peter Parker, Spiderman đã phải đối diện với nhiều lời khen chê trái chiều đến từ công chúng, việc này không những làm ảnh hưởng đến cuộc sống của Peter mà còn khiến Dì May, cậu bạn Ned và người yêu MJ bị liên lụy. Vì vậy Peter đã tìm đến Doctor Strange để nhờ ông tìm cách giải quyết chuyện này. Tuy nhiên trong quá trình thi triển thuật đảo ngược thời gian, do nhanh mồm nhanh miệng mà Peter đã khiến việc đọc phép gặp lỗi và mở ra những cánh cửa đưa các tên ác nhân ở các vũ trụ khác đến nơi cậu sinh sống.",
       "trailer": "iaD2f2O9wGk",
-      "video": "",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FNg%C6%B0%E1%BB%9Di%20Nh%E1%BB%87n-%20Kh%C3%B4ng%20C%C3%B2n%20Nh%C3%A0%20(B%E1%BA%A3n%20M%E1%BB%9F%20R%E1%BB%99ng).mp4?alt=media&token=f164cf28-14c1-478d-b7d4-707374b933a5",
       "voteAverage": 4,
       "voteCount": 17204
+    },
+    {
+      "id": 1683269793293,
+      "title": "Minions",
+      "country": "Âu Mỹ",
+      "updateTime": 20150506091111,
+      "year": 2015,
+      "runtime": "67 phút",
+      "genreOne": "Hoạt Hình",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Hài Hước",
+      "plot": "Minions đưa ta quay về thưở khai thiên lập địa, khi ấy Minion đã tồn tại. Chúng luôn phục tùng cho những kẻ tàn ác nhất nhưng họ cũng lần lượt ra đi. Vì ko còn ai để phụng sự, Minion tên Kevin đã cùng Stuart và Bob ra đi khám phá thế giới và tìm kiếm chủ nhân tàn ác cho mình. Và chúng đã tìm ra Scarlet Overkill - nữ siêu ác nhân đầu tiên nhân loại. Rồi chuyện gì sẽ xảy ra tiếp theo? Trái đất sẽ như thế nào?",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FMinions_poster.jpg?alt=media&token=eacd13c8-f706-449c-813c-417967d552c8",
+      "trailer": "P9-FCC6I7u0",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FMinions%20(2015).mp4?alt=media&token=96cbc407-6d56-4d57-8bbb-20c225e5ef04",
+      "voteAverage": 3.1,
+      "voteCount": 13
+    },
+    {
+      "id": 1683321650908,
+      "title": "Nàng Tiên Cá (2023)",
+      "country": "Âu Mỹ",
+      "updateTime": 20230506091000,
+      "year": 2023,
+      "runtime": "135 phút",
+      "genreOne": "Tình Cảm",
+      "genreTwo": "Âm Nhạc",
+      "genreThree": "Phiêu Lưu",
+      "plot": "Ariel là một nàng tiên cá trẻ xinh đẹp và mạnh mẽ với khát khao phiêu lưu. Là con gái út của vua Triton và cũng là người ngang ngạnh nhất, nàng khao khát khám phá về thế giới bên kia đại dương. Một lần ghé thăm đất liền, nàng đã phải lòng hoàng tử Eric bảnh bao. Trong khi tiên cá bị cấm tiếp xúc với con người, Ariel đã làm theo trái tim mình. Nàng đã thỏa thuận với phù thủy biển Ursula hung ác để có cơ hội sống cuộc sống trên đất liền, nhưng cuối cùng việc này lại đe dọa tới mạng sống của Ariel và vương miện của cha nàng.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FN%C3%A0ng_ti%C3%AAn_c%C3%A1_2023_-_Vietnam_poster.jpg?alt=media&token=3e134824-7fa5-49a1-a31c-ea60fcd80b64",
+      "trailer": "20qSYhJLIvY",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FN%C3%A0ng%20Ti%C3%AAn%20C%C3%A1%20t%E1%BB%AB%20Disney%20-%20Official%20Teaser.mp4?alt=media&token=0a11b80c-bfb1-431f-a740-768ef4aa7e6a",
+      "voteAverage": 0,
+      "voteCount": 0
+    },
+    {
+      "id": 1683323661746,
+      "title": "Người Kiến và Chiến binh Ong: Thế giới Lượng tử",
+      "country": "Âu Mỹ",
+      "updateTime": 20230506091100,
+      "year": 2023,
+      "runtime": "124 phút",
+      "genreOne": "Hành Động",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Khoa Học Viễn Tưởng",
+      "plot": "Scott Lang đã trở thành một tác giả thành công và sống hạnh phúc với bạn gái Hope van Dyne. Con gái của Lang, Cassie, đã trở thành một nhà hoạt động khiến cô bị bắt và Lang phải bảo lãnh cho cô. Khi đến thăm cha mẹ của Hope, Hank Pym và Janet van Dyne, Cassie tiết lộ rằng cô ấy đang làm việc trên một thiết bị có thể liên lạc với Thế giới Lượng tử. Khi biết được điều này, Janet hoảng sợ và cố gắng tắt thiết bị, nhưng tin nhắn đã được nhận, dẫn đến một cánh cổng mở ra và kéo năm người họ vào Thế giới Lượng tử. Cha con Lang được tìm thấy bởi những người bản xứ đang nổi dậy chống lại kẻ thống trị của họ, trong khi Hope, Janet và Hank phải đi qua một thành phố rộng lớn để tìm câu trả lời.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FAnt-Man_and_the_Wasp_Quantumania_poster.jpg?alt=media&token=a3f3e386-2d06-44e3-b51d-752cadc4cc6f",
+      "trailer": "ZlNFpri-Y40",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FKang%20vs%20Ant-Man%20fight%20-%20Ant-Man%20and%20the%20Wasp-QUANTUMANIA%20(2023)%20-%20Movieclips.mp4?alt=media&token=f6f1b82e-480d-442c-811a-34a22a7e7283",
+      "voteAverage": 0,
+      "voteCount": 0
+    },
+    {
+      "id": 1683337711695,
+      "title": "M3GAN",
+      "country": "Âu Mỹ",
+      "updateTime": 20230506091111,
+      "year": 2023,
+      "runtime": "102 phút",
+      "genreOne": "Kinh Dị",
+      "genreTwo": "Khoa Học Viễn Tưởng",
+      "genreThree": "",
+      "plot": "Gia đình Cady bị tai nạn xe hơi trong một trận bão tuyết và cả bố mẹ cô bé đều qua đời. Người dì Gemma nhận quyền giám hộ và đưa cô bé về nhà mình nuôi. Gemma là một nhà chế tạo robot tại công ty đồ chơi công nghệ cao Funki tại thành phố Seattle. Cô cùng với hai đồng nghiệp là Tess và Cole đang phát triển búp bê robot M3GAN (Model 3 Generative Android) sử dụng AI với hi vọng nó sẽ là người bạn đồng hành chăm sóc trẻ em. Cả nhóm hào hứng đưa con robot cho giám đốc David duyệt nhưng M3GAN gặp lỗi khi chạy thử nên anh đã yêu cầu bỏ dự án để tập trung cho Purrpetual Petz, thương hiệu đồ chơi hàng đầu của Funki.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FPoster_cho_phim_M3gan_(2023).jpg?alt=media&token=9cd5e811-b47d-4f4d-9004-1391439e2c4c",
+      "trailer": "BRb4U99OU80",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FM3GAN%20(2023)%20Dance%20Scene%20(Unrated)%204K.mp4?alt=media&token=02d68364-ccd4-4794-820e-81aaee7444d1",
+      "voteAverage": 0,
+      "voteCount": 0
+    },
+    {
+      "id": 1683341688883,
+      "title": "Nhà bà Nữ",
+      "country": "Việt Nam",
+      "updateTime": 20230506095448,
+      "year": 2023,
+      "runtime": "102 phút",
+      "genreOne": "Hài Hước",
+      "genreTwo": "Tình Cảm",
+      "genreThree": "",
+      "plot": "Bộ phim xoay quanh gia đình ba thế hệ của bà Ngọc Nữ (do Lê Giang thủ vai), một gia đình làm nghề bán bánh canh cua trong một khu chung cư cũ do ông Liêm (do NSND Việt Anh thủ vai) quản lý. Bà Ngọc Nữ có hai đứa con gái là Ngọc Như (do Khả Như thủ vai) và Ngọc Nhi (do Huỳnh Uyển Ân thủ vai). Ngọc Ngà (do NSND Ngọc Giàu thủ vai), mẹ của bà Ngọc Nữ cũng sống chung gia đình. Do có mâu thuẫn với chồng, cả hai ly hôn và chồng bà rời bỏ gia đình, bà Ngọc Nữ đã một mình nuôi lớn hai đứa con nên bà có mối thù cực kỳ lớn đối với những người đàn ông. Khi đứa con gái lớn của bà có chồng là Phú Nhuận (do Trấn Thành thủ vai) đã khiến cho bà Ngọc Nữ vô cùng khó chịu. Chính vì vậy mà bà luôn cố gắng bảo vệ cho đứa con gái út của mình là Ngọc Nhi tránh xa \"cánh mày râu\" nhằm hy vọng đứa con gái không bị tổn thương giống như mình.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2F%C3%81p_ph%C3%ADch_phim_Nh%C3%A0_b%C3%A0_N%E1%BB%AF%20(1).jpg?alt=media&token=919e15b4-f096-48d9-b95a-d03dc9999209",
+      "trailer": "kKYu8MlKEX0",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FNH%C3%80%20B%C3%80%20N%E1%BB%AE.mp4?alt=media&token=832b489e-ccfd-404b-a5d5-5d5b0775debd",
+      "voteAverage": 0,
+      "voteCount": 0
+    },
+    {
+      "id": 1683342222174,
+      "title": "Khóa chặt cửa nào Suzume",
+      "country": "Nhật Bản",
+      "updateTime": 20230506100342,
+      "year": 2022,
+      "runtime": "122 phút",
+      "genreOne": "Hoạt Hình",
+      "genreTwo": "Tình Cảm",
+      "genreThree": "Phiêu Lưu",
+      "plot": "Tại một thị trấn nhỏ ven biển ở Miyazaki, Iwato Suzume — một nữ sinh cao trung 17 tuổi sống với dì của mình ở Kyushu, mơ thấy mình mình vì kiệt sức đi qua một đồng cỏ, rồi mẹ cô đưa cho cô một chiếc ghế gãy trong một thế giới kỳ ảo. Một buổi sáng[gc 2], khi đang đi học, cô gặp một chàng trai trẻ đang tìm kiếm những nơi bị bỏ hoang. Cô nói với anh về một khu nghỉ dưỡng suối nước nóng (onsen) cũ, rồi theo anh đến đó. Tuy nhiên, không thấy anh, tất cả những gì cô thấy là một cánh cửa đứng trơ ​​trọi trên khung. Sau khi mở cửa, cô nhìn thấy thế giới giống với trong giấc mơ của mình, nhưng lại không thể bước vào đó. Khi thử lại, cô vấp phải một viên đá (Yêu Thạch[gc 1]) hóa thành một con mèo con. Sợ hãi, cô bỏ chạy và quay lại trường.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FSuzume_no_Tojimari.tiff.jpg?alt=media&token=fe052b88-e10a-461a-b693-3781c330d595",
+      "trailer": "xQ4_c8JfuzI",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2FSuzume%20No%20Tojimari%20OST.mp4?alt=media&token=4eafe17a-2590-4963-b64c-4b5d93289ca8",
+      "voteAverage": 0,
+      "voteCount": 0
+    },
+    {
+      "id": 1683342949815,
+      "title": "The Super Mario Bros. Movie",
+      "country": "Âu Mỹ",
+      "updateTime": 20230506101549,
+      "year": 2022,
+      "runtime": "92 phút",
+      "genreOne": "Hoạt Hình",
+      "genreTwo": "Phiêu Lưu",
+      "genreThree": "Hành Động",
+      "plot": "Hai người thợ sửa ống nước người Ý là Mario và Luigi đang sở hữu và vận hành công ty Super Mario Bros nhưng lại không thành công. Họ phải làm công việc kinh doanh hệ thống ống nước ở Brooklyn. Cha của họ không đồng ý với quyết định của Mario rằng anh sẽ từ bỏ công việc lương cao dưới tay tên Spike phản diện để bắt đầu kinh doanh. Sau khi nhận thấy một vụ rò rỉ miệng cống nghiêm trọng được đưa tin trên bản tin, Mario và Luigi nhanh chóng đi xuống lòng đất để sửa đường ống dẫn nước, nhưng cả hai đều bị hút vào một đường ống và đã bị chia tách ra trong quá trình này.",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Fmovies%2FB%C3%ACa_phim_Anh_em_Super_Mario.png?alt=media&token=3097f98b-14bd-4645-b5bf-72a52193ed2a",
+      "trailer": "UvDvAv0qvRM",
+      "video": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Fmovies%2F%5BMario%20Movie%20AMV-GMV%5D%20Stars%20in%20the%20Sky%20-%20Kid%20Culi.mp4?alt=media&token=37f9bab1-69d0-4210-a953-dcb65ac7cb2d",
+      "voteAverage": 0,
+      "voteCount": 0
     }
   ],
   "tv-series": [
     {
-      "id": 1,
+      "id": 1683276213285,
       "title": "Vũ Điệu Tuổi Trẻ",
       "country": "Hàn Quốc",
-      "updateTime": 20221214,
+      "updateTime": 20220506091111,
       "year": 2022,
       "runtime": "70 phút/Tập",
       "genreOne": "Tình Cảm",
       "genreTwo": "",
       "genreThree": "",
-      "poster": "https://firebasestorage.googleapis.com/v0/b/movies-website-b4f83.appspot.com/o/posters%2FCheer-Up.jpg?alt=media&token=d2158d3d-e0df-4825-a0e5-2f83a7a2b8ed",
-      "cover": "",
       "plot": "Do Hae Yi sáng sủa và siêng năng, đang là sinh viên Đại học Yeonhee. Vì tình hình tài chính không tốt của gia đình, cô ấy ưu tiên kiếm tiền hơn là đi học.Một ngày nọ, Do Hae Yi bất ngờ gia nhập đội cổ vũ Teyia đã tồn tại 50 năm tại Đại học Yeonhee. Cô ấy chỉ tham gia câu lạc bộ vì tiền, nhưng trong khi tham gia vào đội cổ vũ, Do Hae Yi bắt đầu trải nghiệm niềm vui của cuộc sống trong khuôn viên trường và gặp gỡ nhiều người khác nhau từ Teyia bao gồm Bae Young Woong, người từng là thành viên của Teyia và anh ấy là cựu sinh viên của Yeonhee Univers, hỗ trợ đội cổ vũ về mặt tài chính và tình cảm.",
-      "trailer": "",
-      "video": "",
+      "poster": "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/posters%2Ftv-series%2FCheer-Up.jpg?alt=media&token=b5a6c94d-277a-455f-a45f-09280b7cd628",
+      "trailer": "AaGu8XCnghg",
+      "videos": [
+        "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Ftv-series%2FCheer-up-tap-1.mp4?alt=media&token=a4f0c24f-8110-4c77-90cb-ce07f03dad87",
+        "https://firebasestorage.googleapis.com/v0/b/fir-upload-img-ft02.appspot.com/o/videos%2Ftv-series%2FCheer-up-tap-2.mp4?alt=media&token=1636b952-d37c-41c4-b7fd-60206e2757b8"
+      ],
       "episodes": "24/24",
-      "complete": "Đã Hoàn",
+      "complete": "Hoàn Thành",
       "voteAverage": 4.8,
       "voteCount": 9
-    }
-  ],
-  "comments": [
-    {
-      "title": "Minions",
-      "avatar": "",
-      "userName": "a",
-      "voteAverage": 2,
-      "text": "ahfahfạkfh"
-    },
-    {
-      "title": "Minions: Sự trỗi dậy của Gru",
-      "avatar": "",
-      "userName": "a",
-      "voteAverage": 3,
-      "text": "ahfahfạkfh"
     }
   ],
   "users": [
     {
       "userName": "Anh",
       "email": "admin@gmail.com",
-      "password": "adminahihi",
-      "condition": "admin",
-      "id": 1
+      "password": "11111",
+      "condition": "admin"
     },
     {
       "userName": "Dương Quá",
@@ -222,7 +336,102 @@
       "password": "yeucocoahihi",
       "condition": "user",
       "status": "Hoạt Động",
-      "id": 2
+    
+      "id": 5543126023228
+    },
+    {
+      "userName": "Thần Điêu",
+      "email": "tudobayluon@gmail.com",
+      "password": "bautroibaolatathatvidai",
+      "condition": "user",
+      "status": "Hoạt Động",
+
+      "id": 1683155523228
+    },
+    {
+      "id": 1683126023228,
+      "userName": "Cô Cô Jumbo",
+      "email": "cocosuphuduongqua@gmail.com",
+      "password": "thichngontinh",
+      "condition": "user",
+      "status": "Hoạt Động"
+    
+    },
+    {
+      "id": 1683191005387,
+      "userName": "Triển Chiêu",
+      "email": "trienchieu@gmail.com",
+      "password": "trienchieuahihi",
+      "condition": "user",
+      "status": "Hoạt Động"
+   
+    },
+    {
+      "id": 1683191182378,
+      "userName": "Đông Phương BB",
+      "email": "dongphuongbatbai@gmail.com",
+      "password": "dongphuongbatbai",
+      "condition": "user",
+      "status": "Bị Khóa"
+    },
+    {
+      "id": 1683191370224,
+      "userName": "Quách Tĩnh",
+      "email": "quachtinh@gmail.com",
+      "password": "quachtinhahihi",
+      "condition": "user",
+      "status": "Hoạt Động"
+    },
+    {
+      "id": 1683191640777,
+      "userName": "Hoàng Dược Sư",
+      "email": "hoangduocsu@gmail.com",
+      "password": "dongtahoangduocsu",
+      "condition": "user",
+      "status": "Bị Khóa"
+    },
+    {
+      "id": 1683191854121,
+      "userName": "Lý Mạc Sầu",
+      "email": "lymacsau@gmail.com",
+      "password": "lymacthichsaurieng",
+      "condition": "user",
+      "status": "Hoạt Động"
+    },
+    {
+      "id": 1683191942671,
+      "userName": "Hồng Thất Công",
+      "email": "hongthatcong@gmail.com",
+      "password": "hongkongahihi",
+      "condition": "user",
+      "status": "Hoạt Động"
+    },
+    {
+      "id": 1683191980425,
+      "userName": "Độc Cô Cầu Bại",
+      "email": "caubai@gmail.com",
+      "password": "caubaicai",
+      "condition": "user",
+      "status": "Bị Khóa"
+  
+    },
+    {
+      "id": 1683192043954,
+      "userName": "Quách Phá Lỗ",
+      "email": "phalo@gmail.com",
+      "password": "tengikivay",
+      "condition": "user",
+      "status": "Hoạt Động"
+    }
+  ],
+
+  "comments": [
+    {
+      "userName": "Dương Quá",
+      "title": "Minions",
+      "text": "Bộ phim này không hay bằng phim của tôi",
+      "sum": 1,
+      "id": 1
     }
   ]
 }
