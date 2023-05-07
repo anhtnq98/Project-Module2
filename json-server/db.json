@@ -336,7 +336,6 @@
       "password": "yeucocoahihi",
       "condition": "user",
       "status": "Hoạt Động",
-    
       "id": 5543126023228
     },
     {
@@ -345,7 +344,6 @@
       "password": "bautroibaolatathatvidai",
       "condition": "user",
       "status": "Hoạt Động",
-
       "id": 1683155523228
     },
     {
@@ -355,7 +353,6 @@
       "password": "thichngontinh",
       "condition": "user",
       "status": "Hoạt Động"
-    
     },
     {
       "id": 1683191005387,
@@ -364,7 +361,6 @@
       "password": "trienchieuahihi",
       "condition": "user",
       "status": "Hoạt Động"
-   
     },
     {
       "id": 1683191182378,
@@ -372,7 +368,7 @@
       "email": "dongphuongbatbai@gmail.com",
       "password": "dongphuongbatbai",
       "condition": "user",
-      "status": "Bị Khóa"
+      "status": "Hoạt Động"
     },
     {
       "id": 1683191370224,
@@ -413,7 +409,6 @@
       "password": "caubaicai",
       "condition": "user",
       "status": "Bị Khóa"
-  
     },
     {
       "id": 1683192043954,
@@ -424,14 +419,54 @@
       "status": "Hoạt Động"
     }
   ],
-
   "comments": [
     {
+      "id": 1683426816982,
+      "movieID": "1683323661746",
       "userName": "Dương Quá",
-      "title": "Minions",
-      "text": "Bộ phim này không hay bằng phim của tôi",
-      "sum": 1,
-      "id": 1
+      "charName": "D",
+      "condition": "user",
+      "comment": "Bộ phim này không hay bằng phim của tại hạ",
+      "like": 9,
+      "dislike": 22,
+      "dateTime": 20230507101996,
+      "currentTime": "2023/5/7 9:33"
+    },
+    {
+      "id": 1683428409401,
+      "movieID": "1683323661746",
+      "userName": "Cô Cô Jumbo",
+      "charName": "C",
+      "condition": "user",
+      "comment": "Huynh nói gì vậy, ta thấy phim này cũng hay đấy chứ <3",
+      "like": 25,
+      "dislike": 3,
+      "dateTime": 20230507101997,
+      "currentTime": "2023/5/7 10:01"
+    },
+    {
+      "id": 1683428790627,
+      "movieID": "1683323661746",
+      "userName": "Dương Quá",
+      "charName": "D",
+      "condition": "user",
+      "comment": "Ừ Cô Cô nói gì ta nghe nấy ;)",
+      "like": 6,
+      "dislike": 2,
+      "dateTime": 20230507101998,
+      "currentTime": "2023/5/7 10:06"
+    },
+    {
+      "id": 1683429041462,
+      "movieID": "1683323661746",
+      "userName": "Đông Phương BB",
+      "charName": "Đ",
+      "condition": "user",
+      "comment": "=_= ?",
+      "like": 35,
+      "dislike": 5,
+      "dateTime": 20230507101999,
+      "currentTime": "2023/5/7 10:10"
     }
   ]
 }
